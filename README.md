@@ -1,40 +1,16 @@
-# :wave: Say hi to Elizabeth :wave:
+# shopify-starter [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Bare-bones theme for Shopify development and testing.
 
-[![Generic badge](https://img.shields.io/badge/course%20available%3F-yes-green.svg)](https://shields.io/)
+## License
+  
+### This project is licensed under the terms of the **MIT License**
 
-This project is created and intended to be used for the [Shopify Theme Development – Online Store 2.0 + TailwindCSS course](https://weeklyhow.com/courses/)
+Copyright (c) 2022
 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-[Get the course!](https://weeklyhow.com/) | [Lessons covered](#lessons-covered) |
-[How to use](#how-to-use) | [Not a student?](#not-a-student)
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-## Lessons covered
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Status | Lectures
------------- | -------------
-:heavy_check_mark: | Installing Development Tools
-:heavy_check_mark: | Navigational Bar
-:heavy_check_mark: | 404 Page
-:heavy_check_mark: | Article Page
-:heavy_check_mark: | Blog Page
-:heavy_check_mark: | Cart Page
-:heavy_check_mark: | Product Collection Page
-:heavy_check_mark: | Collections Page
-:heavy_check_mark: | Homepage (Index)
-:heavy_check_mark: | Pages (About & Contact)
-:heavy_check_mark: | Advanced Product Page
-:heavy_check_mark: | Search Page
-:hourglass: | More lessons coming
-
-## How to use
-
-To use this repository for making Shopify themes, use the following command of Shopify CLI.
-```sh
-shopify theme init [ NAME OF YOUR THEME ] --clone-url https://github.com/polidario/Elizabeth_Clean
-```
-
-If you don't have Shopify CLI installed to your computer, navigate to the [installation page of Shopify CLI](https://shopify.dev/themes/tools/cli/installation).
-
-## Not a student
-
-If you're not a student, you can still use this repository to start a new Shopify theme project. However, any issues that you will encounter throughout your development will not be supported as the instructor will only answer questions through the course's QnA page.
+<https://choosealicense.com/licenses/mit/>
